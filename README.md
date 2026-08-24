@@ -10,7 +10,7 @@ Atualmente, busco construir uma base sólida em lógica de programação e desen
 - Aprender e dominar novas técnicas de desenvolvimento web/backend.
 
 ### Tecnologias e ferramentas nas quais possuo conhecimento:
-- Linguagem C
+- Linguagem C++
 - Linguagem Python 
 - Linguagem Java
 - HTML e CSS
