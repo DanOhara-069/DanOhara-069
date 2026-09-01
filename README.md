@@ -10,11 +10,11 @@ Atualmente, busco construir uma base sólida em lógica de programação e desen
 - Aprender e dominar novas técnicas de desenvolvimento web/backend.
 
 ### Tecnologias e ferramentas nas quais possuo conhecimento:
-- Linguagem C++
-- Linguagem Python 
-- Linguagem Java
-- HTML e CSS
-- Banco de Dados SQL
+- Linguagens C e C++.
+- Linguagem Python. 
+- Linguagem Java.
+- HTML e CSS.
+- Banco de Dados SQL.
 
 ### O que você vai encontrar por aqui:
 Neste perfil, compartilho meus projetos acadêmicos e meus repositórios de estudo contínuo. Além disso, documento minha evolução, comentando meus códigos para consolidar o aprendizado.
