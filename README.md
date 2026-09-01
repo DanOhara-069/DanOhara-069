@@ -7,7 +7,7 @@ Atualmente, busco construir uma base sólida em lógica de programação e desen
 ### Meus objetivos:
 - Conseguir um estágio em desenvolvimento (modelo remoto ou presencial).
 - Aprimorar diariamente minha lógica de programação.
-- Aprender e dominar novas técnicas de desenvolvimento web/backend.
+- Aprender e dominar novas técnicas de desenvolvimento web/backend e frontend.
 
 ### Tecnologias e ferramentas nas quais possuo conhecimento:
 - Linguagens C e C++.
